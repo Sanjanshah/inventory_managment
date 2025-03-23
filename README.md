@@ -1,7 +1,8 @@
 # inventory_managment
-so, this project is an inventory_managment sytem here we can do several things like we can adding products,and many more i have written all the features  in Redmee file 
+so, this project is an inventory_managment sytem here we can do several things like we can adding products,and many more i have written all the features  in Redmee file  
 
-<!--# Django Inventory Management System
+
+ Django Inventory Management System
 
 A Django-based inventory management system that allows users to manage products, suppliers, and stock transactions with a user-friendly interface.
 
@@ -16,11 +17,8 @@ A Django-based inventory management system that allows users to manage products,
 ## Installation
 
 1. **Clone the repository**:
-   ```bash
+   bash
    git clone https://github.com/yourusername/inventory_management.git
    cd inventory_management-
-   
+
    <h1> Create a virtual environment (optional but recommended): </h1>
-   
-   
-   ->
