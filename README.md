@@ -40,7 +40,7 @@ This table summarizes the key components of the README, ensuring all parts are o
 
 1. **Clone the repository**:
    bash
-   git clone https://github.com/yourusername/inventory_management.git
+   git clone https://github.com/Sanjanshah/inventory_managment.git
    cd inventory_management-
 
    <h1> Create a virtual environment (optional but recommended): </h1>
